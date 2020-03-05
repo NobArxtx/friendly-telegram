@@ -10,3 +10,4 @@ googletrans
 bs4
 humanize
 requests
+search_engine_parser
