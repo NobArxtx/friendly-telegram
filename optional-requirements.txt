@@ -12,3 +12,4 @@ humanize
 requests
 pytube
 googleapiclient
+cowpy
