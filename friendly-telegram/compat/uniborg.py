@@ -197,7 +197,7 @@ class UniborgConfig:
                "NO_OF_BUTTONS_DISPLAYED_IN_H_ME_CMD", "COMMAND_HAND_LER", "SUDO_USERS", "VERY_STREAM_LOGIN",
                "VERY_STREAM_KEY", "G_DRIVE_CLIENT_ID", "G_DRIVE_CLIENT_SECRET", "G_DRIVE_AUTH_TOKEN_DATA",
                "TELE_GRAM_2FA_CODE", "GROUP_REG_SED_EX_BOT_S", "OPEN_LOAD_LOGIN", "OPEN_LOAD_KEY",
-               "GOOGLE_CHROME_DRIVER", "OPEN_WEATHER_MAP_APPID", "GITHUB_ACCESS_TOKEN", "GIT_USER_NAME"]
+               "GOOGLE_CHROME_DRIVER", "OPEN_WEATHER_MAP_APPID", "GITHUB_ACCESS_TOKEN", "GIT_USER_NAME", "RAVANA_LEELA"]
 
     GOOGLE_CHROME_BIN = None
     SCREEN_SHOT_LAYER_ACCESS_KEY = None
@@ -233,7 +233,7 @@ class UniborgConfig:
     OPEN_LOAD_KEY = None
     GOOGLE_CHROME_DRIVER = None
     OPEN_WEATHER_MAP_APPID = None
-
+    RAVANA_LEELA = None
     # === SNIP ===
     # this stuff should never get changed, because its either unused, stupid or dangerous.
     TMP_DOWNLOAD_DIRECTORY = tempfile.mkdtemp()
